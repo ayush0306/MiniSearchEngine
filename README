@@ -1,0 +1,3 @@
+python working.py input output
+python merger.py <no.of file in output of working.py>
+python search.py <no.of file in output of merger.py>
